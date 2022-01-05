@@ -1,6 +1,6 @@
 ### Hi there! Eu sou Assis Meneghetti Fabri 👋
 
-- 🔭 Atualmente trabalho com front-end
+- 🔭 Pronto para trabalhar com front-end
 - 🌱 Estudando React
 - 😄 Pronouns: ele/dele
 
