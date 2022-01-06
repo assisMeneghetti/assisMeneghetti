@@ -1,4 +1,4 @@
-### Hi there! Eu sou Assis Meneghetti Fabri 👋
+### Hi there! Eu sou Assis Meneghetti Fabri 👋👋
 
 - 🔭 Pronto para trabalhar com front-end
 - 🌱 Estudando React
