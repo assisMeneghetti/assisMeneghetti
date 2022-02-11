@@ -1,6 +1,6 @@
 ### Hi there! Eu sou Assis Meneghetti Fabri 👋
 
-- 🔭 Dev front-end a caminho de me tornar full-stack
+- 🔭 Dev front-end a caminho de me tornar full stack
 - 🌱 Estudando Node.js
 - 😄 Pronouns: ele/dele
 
