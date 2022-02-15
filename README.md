@@ -1,4 +1,6 @@
-### Hi there! Eu sou Assis Meneghetti Fabri 👋
+### Hi there! 👋 Eu sou Assis Meneghetti Fabri 🇧🇷 🇮🇹. Tenho 35 anos, Ítalo-brasileiro e morador de Venda Nova do Imigrante, pequena cidade na região serrana do ES (já tem internet banda larga aqui, pode me contratar remotamente 😄). Me descobri um desenvolvedor em meados 2021 e cada dia mais apaixonado por essa carreira. 
+No momento desenvolvedor front-end: HTML, CSS, JavaScrict, React, Redux e Context API.
+Estudando back-end: Docker, MySQL e Node.js 
 
 - 🔭 Dev front-end a caminho de me tornar full stack
 - 🌱 Estudando Node.js
