@@ -1,10 +1,16 @@
-### Hi there! 👋 Eu sou Assis Meneghetti Fabri 🇧🇷 🇮🇹. Tenho 35 anos, ítalo-brasileiro e morador de Venda Nova do Imigrante, pequena cidade na região serrana do ES (já tem internet banda larga aqui, pode me contratar remotamente 😄). Me descobri um desenvolvedor em meados 2021 e cada dia mais apaixonado por essa carreira. 
-No momento desenvolvedor front-end: HTML, CSS, JavaScrict, React, Redux e Context API.
-Estudando back-end: Docker, MySQL e Node.js 
+### 🇧🇷 Hi there! 👋 Eu sou Assis Meneghetti Fabri 🇧🇷 🇮🇹. Tenho 35 anos, ítalo-brasileiro e morador de Venda Nova do Imigrante, pequena cidade na região serrana do ES (já tem internet banda larga aqui, pode me contratar remotamente 😄). Me descobri um desenvolvedor em meados 2021 e cada dia mais apaixonado por essa carreira. 
+
+No momento desenvolvedor front end: HTML, CSS, JavaScrict, React, Redux e Context API.
+Estudando back end: Docker, MySQL, Node.js, Sequelize e Typescript
+
+### 🇺🇸 Hi there! 👋 I'm Assis Meneghetti Fabri 🇧🇷 🇮🇹. I am 35 years old, Italian-Brazilian and I live in Venda Nova do Imigrante, a small town in the mountainous region of ES (there is already broadband internet here, you can hire me remotely 😄). I found myself a developer in mid-2021 and every day more passionate about this career.
+
+Currently front end developer: HTML, CSS, JavaScrict, React, Redux e Context API.
+I'm studying back end: Docker, MySQL, Node.js, Sequelize e Typescript
 
 - 🔭 Dev front-end a caminho de me tornar full stack
 - 🌱 Estudando Node.js
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: ele/dele he/his/him
 
 <div align="center">
   <a href="https://github.com/assisMeneghetti">
